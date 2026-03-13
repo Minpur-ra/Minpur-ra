@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Snake animation](https://github.com/Minpur-ra/Minpur-ra/blob/output/snake.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k.jordan234)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@karinasj_kkkkk)
 
 <!--
 **Minpur-ra/Minpur-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
