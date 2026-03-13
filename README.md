@@ -1,5 +1,9 @@
 ## Hi there 👋
-![Snake animation](https://github.com/Minpur-ra/Minpur-ra/blob/output/snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minpur-ra/Minpur-ra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minpur-ra/Minpur-ra/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Minpur-ra/Minpur-ra/output/github-contribution-grid-snake.svg">
+</picture>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k.jordan234)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@karinasj_kkkkk)
 
